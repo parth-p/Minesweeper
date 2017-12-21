@@ -1,4 +1,4 @@
 # Minesweeper
 
-Minesweeper build under python3
+Minesweeper build under python3 </br>
 Requierments : tkinter
